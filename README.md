@@ -1,1 +1,1 @@
-# CodeAlpha_fib_generator
+# CodeAlpha_fibnacci_generator
